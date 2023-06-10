@@ -50,4 +50,3 @@ const writeBlogs = async () => {
 }
 
 writeBlogs()
-        
