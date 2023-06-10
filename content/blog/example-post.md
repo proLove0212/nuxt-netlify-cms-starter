@@ -11,4 +11,3 @@ authorlink: 'https://twitter.com'
 thumbnail: /images/uploads/pdf.jpg
 ---
 Example post with all markdown content!
-        
